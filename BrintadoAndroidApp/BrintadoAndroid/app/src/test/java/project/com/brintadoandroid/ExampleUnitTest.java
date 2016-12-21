@@ -1,4 +1,4 @@
-package com.example.andrea.brintadoandroid;
+package project.com.brintadoandroid;
 
 import org.junit.Test;
 
